@@ -33,5 +33,5 @@ This will provide you with a URL to access your CV's web page. Click on the link
 
 ## Contact information
 
-Nane: hayrapetyangvidon@gmail.com
+Nane: mnacakanyangexaznik@gmail.com
 Github: https://github.com/Nane666
